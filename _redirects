@@ -1,5 +1,2 @@
-/* Netlify redirect rules */
-
-/* Permanent redirect (301) for all paths */
-/*    https://activity-tennis.apps.stdiox.com/:splat    301!
+/*  https://activity-tennis.apps.stdiox.com/:splat  301!
 
