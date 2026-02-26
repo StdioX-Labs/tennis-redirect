@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+  command = "echo 'No build required'"
+
+[[redirects]]
+  from = "/*"
+  to = "https://activity-tennis.apps.stdiox.com/:splat"
+  status = 301
+  force = true
+
